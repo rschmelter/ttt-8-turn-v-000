@@ -8,5 +8,3 @@ display_board(board)
 
 
 turn(board)
-
-gets.strip
